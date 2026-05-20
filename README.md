@@ -3,7 +3,7 @@
 Mention the bot in any channel to get a summary of the last 5 hours of conversation:
 
 ```
-@SummaryBot summarize
+@cozisums summarize
 ```
 
 ---
